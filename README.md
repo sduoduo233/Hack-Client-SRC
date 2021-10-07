@@ -62,3 +62,4 @@
 * Xatz 0.9b1 (minigames)
 * Xulu 1.5.2 (anarchy)
 * Zamorozka 0.5.3 (1.12.2 client, not sure what this client is)
+* Vape 3.25 deobf Modules by SkidKid (minigames)
